@@ -1,3 +1,0 @@
-#Methodology
-
-good methodology
